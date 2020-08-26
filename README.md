@@ -6,4 +6,10 @@ Time : 14:00
 Author : Mr.Mike
 
 	- This is your README. READMEs are where you can communicate what your project is and how to use it.
-    - Write your name on line 6, save it, and then head back to GitHub Desktop.
+        - Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+Date : 26/Aug/2020
+Time : 14:10
+ 
+        - Importing Existing Repository as A.I Turotials 
+	
